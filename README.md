@@ -30,8 +30,7 @@ The API stores data in an **H2 in-memory database**, making it lightweight and e
 
 ## **How to Run the Project**
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/rabianzo/waste-sorting-api.git
+   git clone https://github.com/Rabianzo/waste-sorting-api.git
    cd waste-sorting-api
 
 ## **Build and run the application using Maven:**
