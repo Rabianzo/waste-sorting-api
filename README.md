@@ -49,4 +49,5 @@ The API stores data in an **H2 in-memory database**, making it lightweight and e
 ## **Author**
     Morena R. Macheka
     LinkedIn: https://www.linkedin.com/in/morena-r-macheka-232b26149/
-    Github: https://github.com/Rabianzo
+    Github:   https://github.com/Rabianzo
+    email:    morenamacheka@gmail.com
